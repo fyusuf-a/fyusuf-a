@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Caceresenzo&show_icons=true&count_private=true" alt="caceresenzo" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fyusuf-a&show_icons=true&count_private=true" alt="caceresenzo" /> </p>
 
 <!--
 **fyusuf-a/fyusuf-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
