@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate fullstack developer </h3>
 
-<h4 align="center">🔭 Looking for opportunities in web3</a></h4>
+<h4 align="center">🔭 Looking for opportunities in web3 (<a href="https://github.com/solana-turbin3/Q4_Sol_fyusuf-a">Solana turbin3 repository</a>)</h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="adonis" width="40" height="40"/>
