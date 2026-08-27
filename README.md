@@ -42,7 +42,7 @@
 </p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fyusuf-a&show_icons=true&count_private=true" alt="caceresenzo" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fyusuf-a&show_icons=true&count_private=true" alt="fyusuf-a" /> </p>
 
 <!--
 **fyusuf-a/fyusuf-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
